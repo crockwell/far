@@ -1,0 +1,6 @@
+[submodule "mapfree_6dreg/etc/feature_matching_baselines/LoFTR"]
+	path = mapfree_6dreg/etc/feature_matching_baselines/LoFTR
+	url = https://github.com/zju3dv/LoFTR.git
+[submodule "mapfree_6dreg/etc/feature_matching_baselines/SuperGlue"]
+	path = mapfree_6dreg/etc/feature_matching_baselines/SuperGlue
+	url = https://github.com/magicleap/SuperGluePretrainedNetwork
