@@ -96,6 +96,7 @@ if __name__ == '__main__':
     config.USE_CORRESPONDENCE_TRANSFORMER = False
     config.CORRESPONDENCES_USE_FIT_ONLY = False
     config.EVAL_SPLIT = "test"
+    config.PL_VERSION = pl.__version__
 
     # load data
     image0 = cv2.imread(args.img_path0, cv2.IMREAD_GRAYSCALE)
