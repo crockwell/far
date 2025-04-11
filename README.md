@@ -161,7 +161,7 @@ Scripts should be updated to load the best checkpoint from the prior step in tra
 @inproceedings{Rockwell2024,
     author = {Rockwell, Chris and Kulkarni, Nilesh and Jin, Linyi and Park, Jeong Joon and Johnson, Justin and Fouhey, David F.},
     title = {FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation},
-    inproceeding = {CVPR},
+    booktitle = {CVPR},
     year = 2024
 }
 ```
